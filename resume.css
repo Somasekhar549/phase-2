@@ -1,0 +1,29 @@
+img{
+  width:10%;
+  height:10%;
+}
+body{
+  display: flex;
+  background-blend-mode: lighten;
+  background-color: #B2F5E7;
+}
+.right{
+  text-align: center;
+  justify-content:space-around;
+  width:65;
+  box-shadow: 5px 5px 5px black;
+  border: 2px dotted black;
+  background-color: white;
+}
+img{
+  width:80%;
+  border-radius:10%;
+}
+.left{
+  text-align: center;
+  width:25;
+  border-radius: 10%;
+}
+table{
+  border: 1px solid red;
+}

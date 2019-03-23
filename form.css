@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  background: #E942E8;
+  border-radius: 10%;
+}
+.main{
+  display:flex;
+  margin:2%;
+  padding:2%;
+  width;95%;
+
+}
+.main section{
+  width: 95%;
+  margin: 2px solid black;
+  margin:2%;
+  padding: 2%;
+}
+section{
+  background:#83F96A;
+  text-align: center;
+
+  }
+  input,select{
+    width:95%;
+    padding: 1%;
+    display: block;
+    margin: 1%;
+    border: 1px solid #fff;
+  }
+  #career{
+    width:95%;
+    margin: 1%;
+    padding: 2%;
+    display:block;
+  }
+.head1{
+  text-align: center;
+
+}
+.main2{
+  background-color: #83F96A;
+  margin:2%;
+  padding:2%;
+  width;95%;
+
+}
+button{
+  width:15%;
+  background-color: #36DDEC;
+  padding: 1%;
+  margin: 1%;
+}
+form{
+  background-color: #EC3636;
+  background-image: url(download.jpg);
+
+}
+
+}

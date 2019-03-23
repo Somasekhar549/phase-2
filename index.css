@@ -1,0 +1,40 @@
+header{
+  background-color: #6EEC36;
+  color:white;
+  text-align: center;
+  margin: 2%;
+  padding: 2%;
+  font-size: 25px;
+  font-weight: 600;
+  border: 2px solid black;
+  box-shadow: 2px 5px red;
+
+}
+a img{
+  display: block;
+  margin: 1% 3% 0% auto;
+  width:10%;
+  height:10%;
+}
+img{
+  width:60%;
+  height:60%;
+
+}
+.child{
+  width:15%;
+  height: 30%;
+  text-align:center;
+  border: 2px dotted black;
+  padding: 20px;
+  margin: 25px;
+  background-image: url("images.jpg");
+  border-style:double;
+  border-radius: 10%;
+  height:fixed;
+
+}
+.parent{
+  display: flex;
+  background-image: url(images(1).jpg);
+}
